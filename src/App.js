@@ -8,7 +8,7 @@ function App() {
   const [markers, setMarkers] = useState([]);
 
   useEffect(() => {
-    axios.get("/tt_tomtom_offices.geojson").then((response) => {
+    axios.get(`tt_tomtom_offices.geojson`).then((response) => {
       const officesGeoJSON = response.data;
 
       // Process the GeoJSON data and create Marker components
