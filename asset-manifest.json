@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tomtom-offices-map/static/css/main.e862e01f.css",
-    "main.js": "/tomtom-offices-map/static/js/main.049c85e1.js",
+    "main.js": "/tomtom-offices-map/static/js/main.79fe955f.js",
     "index.html": "/tomtom-offices-map/index.html",
     "main.e862e01f.css.map": "/tomtom-offices-map/static/css/main.e862e01f.css.map",
-    "main.049c85e1.js.map": "/tomtom-offices-map/static/js/main.049c85e1.js.map"
+    "main.79fe955f.js.map": "/tomtom-offices-map/static/js/main.79fe955f.js.map"
   },
   "entrypoints": [
     "static/css/main.e862e01f.css",
-    "static/js/main.049c85e1.js"
+    "static/js/main.79fe955f.js"
   ]
 }
