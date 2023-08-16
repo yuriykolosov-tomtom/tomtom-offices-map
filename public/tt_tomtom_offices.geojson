@@ -1,0 +1,781 @@
+{
+  "type": "FeatureCollection",
+  "dataset_attributes": {
+    "attribution": "required",
+    "license": "Open Database License",
+    "license:website": "https://opendatacommons.org/licenses/odbl/",
+    "license:wikidata": "Q1224853",
+    "spider:collection_time": "2023-08-16T10:06:50.804346"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "dRkC5tlLmwLaQHXQAXu8KD_33Og=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/4241152657",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Ile-de-France",
+        "addr:country": "FR",
+        "name": "TomTom France",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3263696, 48.8128526]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "_BHCMZMOzA4HZJW1WRYQB_fiTmc=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/5966021285",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Budapest",
+        "addr:country": "HU",
+        "name": "TomTom Sales B.V.",
+        "website": "https://www.tomtom.com/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.0229705, 47.4910599]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FPc5OuXHCdWeOKVZFnXebIK-Zb8=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/6979120476",
+        "addr:unit": "C",
+        "check_date": "2023-05-22",
+        "office": "company",
+        "operator:website": "https://www.tomtom.com/",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "38",
+        "addr:street": "Via Messina",
+        "addr:city": "Milano",
+        "addr:state": "Lombardy",
+        "addr:postcode": "20154",
+        "addr:country": "IT",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.17334, 45.4864778]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JKSmuZHqhIORWNuc-U1vJ5BSJ4o=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/8264885357",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "25",
+        "addr:street": "High Tech Campus",
+        "addr:city": "Eindhoven",
+        "addr:state": "North Brabant",
+        "addr:postcode": "5656AE",
+        "addr:country": "NL",
+        "name": "TomTom",
+        "website": "https://www.tomtom.com/careers/offices/eindhoven/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4506809, 51.4126669]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aYp8nD0hIdfiZOwMRwXRneporZs=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/9239602961",
+        "addr:floor": "3",
+        "description": "We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers.",
+        "office": "company",
+        "opening_hours:covid19": "restricted",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:full": "S.No-206 A/1, PL No-88/4 Shanti one, Near Aga Khan Palace,",
+        "addr:housenumber": "206 A/1, Pl no-88/4 Shanti one",
+        "addr:street": "Nagar Road",
+        "addr:city": "Pune",
+        "addr:state": "Maharashtra",
+        "addr:postcode": "411006",
+        "addr:country": "IN",
+        "name": "TomTom India Pvt Ltd",
+        "website": "https://www.tomtom.com/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.9039057, 18.5538654]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nS45YYsKXyDwktiX_I0aUf64Sfo=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/9843366592",
+        "addr:unit": "0501",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "4",
+        "addr:street": "Gaston Crommenlaan",
+        "addr:city": "Ledeberg",
+        "addr:state": "Flanders",
+        "addr:postcode": "9050",
+        "addr:country": "BE",
+        "name": "TomTom",
+        "website": "https://www.tomtom.com/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7357798, 51.0368809]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HHGsgAR0qSzpeNLo8Ma1OXY3-T0=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/10058517320",
+        "height": "27",
+        "office": "company",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "154",
+        "addr:street": "De Ruijterkade",
+        "addr:city": "Amsterdam",
+        "addr:state": "North Holland",
+        "addr:postcode": "1011AC",
+        "addr:country": "NL",
+        "name": "TomTom DRK",
+        "website": "https://www.tomtom.com/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9094261, 52.3772616]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Hdpl6pZq_8wkfqtQ_JaH-79zKGs=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/10238155212",
+        "access": "private",
+        "addr:place": "Edinburgh Technopole",
+        "level": "1",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:city": "Edinburgh",
+        "addr:country": "GB",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1975955, 55.8574007]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w-eRguexlj2ij09O5QUCrxAgVuY=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/10257890281",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "36",
+        "addr:street": "Alexanderstra\u00dfe",
+        "addr:city": "Berlin",
+        "addr:state": "Berlin",
+        "addr:postcode": "10179",
+        "addr:country": "DE",
+        "name": "TomTom",
+        "website": "https://www.tomtom.com/careers/offices/berlin/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4176956, 52.5175293]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SajX4W1B2DhuTCxEDvGfIR0j20Y=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/10701428405",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "66",
+        "addr:street": "Jana Kili\u0144skiego",
+        "addr:city": "\u0141\u00f3d\u017a",
+        "addr:state": "Lodz Voivodeship",
+        "addr:postcode": "90-118",
+        "addr:country": "PL",
+        "name": "TomTom Polska",
+        "website": "https://www.tomtom.com/careers/offices/lodz/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.4650249, 51.7692323]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8SCKTy5GFNUtnhrEHwBc0RZynUI=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/10924087514",
+        "alt_name": "Tele Atlas",
+        "brand:website": "https://www.tomtom.com",
+        "level": "0",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "21",
+        "addr:street": "Lafayette Street",
+        "addr:city": "Lebanon",
+        "addr:state": "NH",
+        "addr:postcode": "03766",
+        "addr:country": "US",
+        "name": "TomTom",
+        "phone": "+1 603-643-0330",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.2608362, 43.6791836]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "q80r53pf_wxVx-UwEvwxHQr26vk=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099672853",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Piedmont",
+        "addr:country": "IT",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6512312, 45.0578579]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p7_-l6iTOcSJvIECqH3TIbXKtA4=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099674600",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "MI",
+        "addr:country": "US",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.4309161, 42.4939763]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "t5iqUPDX_HyaiM-bAqj6PM3CotA=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099676114",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Central Serbia",
+        "addr:country": "RS",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.4065023, 44.8128427]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DI5EhFfAfMyydMbAVSgQoICD4v0=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099681159",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Taipei",
+        "addr:country": "TW",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.515276, 25.0458068]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vmed9P3O_Ciae934TPYXFwqOsik=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099685087",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Bavaria",
+        "addr:country": "DE",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5809511, 48.1380689]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lA4DGwGSXqIQPUYHy1ByfUqPHQU=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099688093",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "West Java",
+        "addr:country": "ID",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8328746, -6.3603028]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VMo4al_qpC12Ou00eiP_MmyycfM=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099689231",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Madrid",
+        "addr:country": "ES",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.690725, 40.4612226]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TDL5IDTLct-Z7xMnJC598izFCP8=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099693213",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "9",
+        "addr:street": "\u0443\u043b\u0438\u0446\u0430 \u0417\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0412\u0430\u043b",
+        "addr:city": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "addr:state": "Moscow",
+        "addr:postcode": "105064",
+        "addr:country": "RU",
+        "name": "TomTom",
+        "website": "https://www.tomtom.com/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6588338, 55.761598]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pWeSOMQqhyXWZS3YI0vRe6dTdAk=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099702870",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Ile-de-France",
+        "addr:country": "FR",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3269893, 48.8092791]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mpWoVzr1vnDs-jGi3AXDEZe56dM=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099709607",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Masovian Voivodeship",
+        "addr:country": "PL",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.0140616, 52.242056]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "yiZYuv7_WKIeqTZiJNwbCL8EnlI=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099709943",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "CA",
+        "addr:country": "US",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.9161442, 37.3674191]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "t-HiEZH46QBtiyIeNRusivOcSuo=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099716964",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Lower Saxony",
+        "addr:country": "DE",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.7378296, 52.3743686]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "XfwmzG0NRpDuewl34hUQ5LVBRPQ=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099718475",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Bangkok",
+        "addr:country": "TH",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5655338, 13.7571836]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "wzqHm2trx3x2HsdFXkfU7MSP_Rk=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099724929",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Seoul",
+        "addr:country": "KR",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.9816595, 37.5708052]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gpivZjjUGS-TJvEACwIM_b0236o=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099728103",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Tokyo",
+        "addr:country": "JP",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7367007, 35.6222583]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IFMpG1482eVX9i0O4r_6CL0V6TI=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099728715",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Dubai",
+        "addr:country": "AE",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.1606852, 25.0951295]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DspF41a1nAXdpFcLuxJ8HZyqx5Q=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/node/11099732569",
+        "office": "company",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:state": "Shanghai Shi",
+        "addr:country": "CN",
+        "name": "TomTom",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4036901, 31.208955]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "wnef6lf0-I8nXDH40gcRzGEYoRw=",
+      "properties": {
+        "ref": "https://www.openstreetmap.org/way/453809679",
+        "building:levels": "10",
+        "building:part": "yes",
+        "name:en": "TomTom",
+        "name:nl": "TomTom",
+        "office": "yes",
+        "contact:instagram": "tomtomglobal",
+        "contact:youtube": "https://www.youtube.com/channel/UC1iURwco4pUIQgoX8vYaO6g",
+        "wikimedia_commons": "Tt live 1000.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/suitcase-15.svg",
+        "addr:housenumber": "114",
+        "addr:street": "Oosterdoksstraat",
+        "addr:city": "Amsterdam",
+        "addr:state": "North Holland",
+        "addr:postcode": "1011DK",
+        "addr:country": "NL",
+        "name": "TomTom ODE",
+        "website": "https://www.tomtom.com/",
+        "contact:twitter": "tomtom",
+        "contact:facebook": "https://www.facebook.com/TomTom/",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tt%20live%201000.jpg",
+        "brand": "TomTom",
+        "brand:wikidata": "Q682144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9081421, 52.3763918]
+      }
+    }
+  ]
+}
